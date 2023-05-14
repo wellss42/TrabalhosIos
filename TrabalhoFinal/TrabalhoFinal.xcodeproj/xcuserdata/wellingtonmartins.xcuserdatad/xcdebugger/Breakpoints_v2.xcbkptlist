@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ABA006A4-1CCF-4592-96FD-7DC0BB70144E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37BC1F53-ACFE-4F9D-8B4C-EB6AA481E77B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrabalhoFinal/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37BC1F53-ACFE-4F9D-8B4C-EB6AA481E77B - ef6705ac9a350f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrabalhoFinal.ListViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "TrabalhoFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/TrabalhoFinal/TrabalhoFinal/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "37BC1F53-ACFE-4F9D-8B4C-EB6AA481E77B - ef6705ac9a350f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrabalhoFinal.ListViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "TrabalhoFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellingtonmartins/Documents/Trabalhos%20ios%20PucMinas/TrabalhoFinal/TrabalhoFinal/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
